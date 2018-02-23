@@ -10,9 +10,9 @@ namespace PaymentContext.Tests
         public void AddSub()
         {
             var subscription = new Subscription(null);
-            var student = new Student("Rhuan", "Carvalho", "123456789", "rsjlcarvalho@gmail.com");
+            //var student = new Student("Rhuan", "Carvalho", "123456789", "rsjlcarvalho@gmail.com");
             
-            student.AddSubscription(subscription);
+            //student.AddSubscription(subscription);
         }
     }
 }
