@@ -219,37 +219,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rhuan Carvalho\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/rhuan/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Rhuan Carvalho\\Documents\\dev-project\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "/home/rhuan/Development/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "c:\\Users\\Rhuan Carvalho\\Documents\\dev-project\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-      "packagesPath": "C:\\Users\\Rhuan Carvalho\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Rhuan Carvalho\\Documents\\dev-project\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "projectPath": "/home/rhuan/Development/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
+      "packagesPath": "/home/rhuan/.nuget/packages/",
+      "outputPath": "/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rhuan Carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/rhuan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\Rhuan Carvalho\\Documents\\dev-project\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "c:\\Users\\Rhuan Carvalho\\Documents\\dev-project\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "/home/rhuan/Development/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+              "projectPath": "/home/rhuan/Development/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
             }
           }
         }

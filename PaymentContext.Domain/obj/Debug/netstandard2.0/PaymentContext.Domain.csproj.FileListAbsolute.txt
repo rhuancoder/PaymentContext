@@ -1,10 +1,21 @@
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
-C:\Users\Rhuan Carvalho\Documents\dev-project\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.deps.json
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.dll
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.pdb
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfo.cs
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.dll
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.pdb
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+C:/Users/Rhuan Carvalho/Documents/dev-project/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.deps.json
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Domain.pdb
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CoreCompileInputs.cache
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfoInputs.cache
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.AssemblyInfo.cs
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.csproj.CopyComplete
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.dll
+/home/rhuan/Development/PaymentContext/PaymentContext.Domain/obj/Debug/netstandard2.0/PaymentContext.Domain.pdb
