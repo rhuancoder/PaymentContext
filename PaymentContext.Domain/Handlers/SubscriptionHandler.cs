@@ -12,7 +12,8 @@ using PaymentContext.Shared.Handlers;
 
 namespace PaymentContext.Domain.Handlers
 {
-    public class SubscriptionHandler : Notifiable,
+    public class SubscriptionHandler : 
+    Notifiable,
     IHandler<CreateBoletoSubscriptionCommand>,
     IHandler<CreatePayPalSubscriptionCommand>,
     IHandler<CreateCreditCardSubscriptionCommand>
@@ -62,6 +63,10 @@ namespace PaymentContext.Domain.Handlers
             //Agrupar as Validações
             AddNotifications(name,document, email, address, student, subscription, payment);
 
+            //Checar as notificações
+            if(Invalid)
+                return new CommandResult(false, "Não foi possível realizar a sua assinatura");
+
             //Salvar as Informações
             _repository.CreateSubscription(student);
 
@@ -101,6 +106,10 @@ namespace PaymentContext.Domain.Handlers
             //Agrupar as Validações
             AddNotifications(name,document, email, address, student, subscription, payment);
 
+            //Checar as notificações
+            if(Invalid)
+                return new CommandResult(false, "Não foi possível realizar a sua assinatura");
+
             //Salvar as Informações
             _repository.CreateSubscription(student);
 
@@ -114,13 +123,6 @@ namespace PaymentContext.Domain.Handlers
 
         public ICommandResult Handle(CreateCreditCardSubscriptionCommand command)
         {
-                 command.Validate();
-            if (command.Invalid)
-            {
-                AddNotifications(command);
-                return new CommandResult(false, "Não foi possível realizar sua assinatura");
-            }
-
             //Verificar se Documento já está cadastrado
             if(_repository.DocumentExists(command.Document))
                 AddNotification("Document", "Este CPF já está em uso");
@@ -146,6 +148,10 @@ namespace PaymentContext.Domain.Handlers
 
             //Agrupar as Validações
             AddNotifications(name,document, email, address, student, subscription, payment);
+
+            //Checar as notificações
+            if(Invalid)
+                return new CommandResult(false, "Não foi possível realizar a sua assinatura");
 
             //Salvar as Informações
             _repository.CreateSubscription(student);
